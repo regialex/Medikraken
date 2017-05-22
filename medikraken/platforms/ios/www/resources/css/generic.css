@@ -1,0 +1,20 @@
+.x-mask .x-mask-inner{
+    background: transparent !important;
+}
+.x-panel.x-floating{
+    background-color: #548ced !important;
+}
+.x-list .x-list-item.x-item-selected.x-list-item-tpl{
+    background-color: #548ced !important;
+    background-image: -webkit-linear-gradient(top, #548ced, #548ced 3%, #548ced);
+    border-top-color: #548ced !important;
+}
+.x-anchor{
+    background-color: #548ced !important;
+}
+.x-anchor-bottom{
+    margin-top: -4px;
+}
+.x-anchor-top{
+    margin-bottom: -4px;
+}

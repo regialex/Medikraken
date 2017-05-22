@@ -1,0 +1,208 @@
+.textFieldTitle{
+    margin-top: 10px;
+    color: #636363;
+    font-weight: 600;
+    height: 20px;
+    font-size: 16px;
+}
+#registrationEmail > div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationEmail{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#confirmRegistrationEmail > div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#confirmRegistrationEmail{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationPassword > div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationPassword{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#confirmRegistrationPassword > div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#confirmRegistrationPassword{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationCompanyName> div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationCompanyName{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationFirstName> div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationFirstName{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationLastName> div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationLastName{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationAddress> div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationAddress{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationAddressTwo> div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationAddressTwo{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationPhone > div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationPhone{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationMobile > div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationMobile{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationCity > div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationCity{
+    font-size: 18px;
+    width: 300px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registrationZip > div > div > input{
+    border-radius: 10px;
+    padding-left: 20px;
+    color: #636363;
+}
+#registrationZip{
+    font-size: 18px;
+    width: 120px;
+    color: #636363;
+    margin-top:5px;
+    border: solid 2px #548ced;
+    border-radius: 10px;
+}
+#registerCancel{
+    background-image: url('../images/buttons/register.png');
+    background-size: cover;
+    background-color: transparent;
+    border: transparent !important;
+    color: #717171;
+    margin: 0 auto;
+    font-size: 22px;
+    height: 59px;
+    width: 411px;
+    margin-top: 60px;
+}
+#cancelRegistration{
+    background-color: transparent !important;
+    background-image: -webkit-linear-gradient(top, transparent, transparent 3%, transparent) !important;
+    border: transparent !important;
+    color: #717171;
+    font-size: 22px;
+    height: 20px;
+    width: 50%;
+    height:100%;
+}
+#submitRegistration{
+    background-color: transparent !important;
+    background-image: -webkit-linear-gradient(top, transparent, transparent 3%, transparent) !important;
+    border: transparent !important;
+    color: #717171;
+    font-size: 22px;
+    height: 20px;
+    width: 50%;
+    height:100%;
+}
